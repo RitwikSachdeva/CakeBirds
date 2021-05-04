@@ -1,2 +1,2 @@
 # CakeBirds
-Expressing the passion of baking through this small info. website.
+Expressing the passion of baking through this sweet info. website.
